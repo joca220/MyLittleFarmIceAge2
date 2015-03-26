@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">My Little Farm Ice Age</string>
+
+     
+    <string name="launch_offerwall" translatable="false">Launch Offer Wall</string>
+    <string name="launch_interstitial" translatable="false">Launch Interstitial</string>
+    <string name="request_new_coins" translatable="false">Request New Coins For User</string>
+    <string name="request_banner" translatable="false">Request Offer Banner</string>
+    <string name="custom_error_message" translatable="false">An error has occurred</string>
+    <string name="banner_not_available" translatable="false">Offer Banner not available [http status code: %1$d]</string>
+    <string name="banner_request_error" translatable="false">Banner request error: [%1$s]</string>
+    <string name="banner_request_error_unknown_host" translatable="false">No connection to the Internet or unknown host</string>
+    <string name="wallpost" translatable="false">Howdy? I just reached Level %1$ in My Little Farm 2! Let us play together as neighbors so we can grow better crops, keep more animals and earn more money! It is so much fun and completely free!</string>
+    <string name="fb_invite_friends" translatable="false">Come and play My Little Farm 2 for Android with me and join my lonely island! Together we can grow better crops and earn more money! Play now, it\'s completely free!</string>
+     <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="network_error" translatable="false">There is a problem connecting to the internet.</string>
+    <string name="can_post_on_wall_title" translatable="false">Post on friend\'s wall</string>
+    <string name="can_post_on_wall" translatable="false">Friends list fetched. You can post on friend\'s wall by clicking on the item.</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="post_on_wall_title" translatable="false">Post on Wall?</string>
+    <string name="post_on_wall" translatable="false">Would you like to post on %1$s\'s wall</string>
+    
+    <string name="android_id_label" translatable="false">Android ID: %1$s</string>
+    <string name="imei_label" translatable="false">IMEI: %1$s</string>
+    <string name="no_refunds_found" translatable="false">No refunds were found!</string>
+    <string name="refunds_found" translatable="false">Great! You got Food: %1$s, XP: %2$s, Coins: %3$s, Diamonds: %4$s</string>
+    <string name="sg_admob_key" translatable="false">a151cb0673ce1ec</string>
+    <string name="sg_adjust_token" translatable="false">wlq3mkqdj2v5</string>
+    
+     <string name="fb_app_id" >434775953274863</string>
+    <string name="CURRENTLY" >Currently</string>
+	<string name="JACKPOT_TITLE" >JACKPOT</string>
+	<string name="REWARD_TITLE" >Recompensa :</string>
+	<string name="TITLE_SPIN" >SPIN !!</string>
+	<string name="MORE_SPIN" >1 spin free</string>
+	<string name="FREE_SPIN" >Sping Gratis !</string>
+	<string name="WIN" >COOL ! YOU GAIN + X</string>
+    
+    
+</resources>

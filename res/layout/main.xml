@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+      <de.softgames.en.mylittlefarm2.GameCanvas android:id="@+id/View" android:layout_width="fill_parent"
+    android:layout_height="wrap_content" ></de.softgames.en.mylittlefarm2.GameCanvas>
+      
+    <!--    <view class="de.softgames.sdk.ui.MoreGamesButton"
+           android:id="@+id/sgMoreGamesButton"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"/>
+      
+      <view 
+       android:id="@+id/sgadview"
+       class="de.softgames.sdk.ui.SGAdView"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"/>-->
+      
+       <ImageView 
+          android:contentDescription = "@string/app_name"
+          android:id="@+id/loadingScreenGame"
+          android:src="@drawable/loading"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" />
+
+</RelativeLayout>

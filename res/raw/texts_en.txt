@@ -1,0 +1,536 @@
+COMPLETE BUILDING!
+YOU NEED THE FOLLOWING RESOURCES TO COMPLETE THIS BUILDING!
+COMPLETE MISSIONS TO GET MORE MATERIAL!
+HARVEST THE REQUIRED CROPS TO PRODUCE!
+IN PRODUCTION
+SELECT A PRODUCT TO PRODUCE
+COLLECTIONS
+CROPS
+ANIMALS
+DECO
+BUILD
+DIAMONDS
+FINISH TASKS TO RECEIVE REWARDS AND RESOURCES!
+FINISH
+BUILD
+BUY ALL FOR
+ADD
+17
+LEVEL UP!
+YOU ARE NOW LEVEL
+COMPLETE MISSIONS TO GET MORE MATERIAL!
+NEW ITEMS:
+STORAGE
+UPGRADE YOUR STORAGE TO STORE MORE ITEMS
+SELL
+REWARD
+FEED MILL
+TAP ON A CROP TO PRODUCE FOOD
+FOOD RESULT
+PRODUCE
+30
+BUY MORE LAND
+SELECT YOU OPTIONS
+NOT ENOUGH FOOD?
+BUY OR PRODUCE MORE FOOD FOR YOUR ANIMALS
+FOOD
+ACHIEVEMENTS
+ACHIEVEMENTS COMPLETED
+COLLECTIONS!
+FIND ITEMS IN THE GAME AND TRADE THEM IN
+DO YOU NEED MORE DIAMONDS?
+CHOOSE PACKAGE TO GET MORE DIAMONDS
+DO YOU NEED MORE COINS?
+CHOOSE PACKAGE TO GET MORE COINS
+44
+Tap again to plow
+Tap again to buy
+Tap again to fertilize
+Tap again to harvest
+Tap again to shop
+Tap again to remove plant
+Plow everywhere ?
+Just for 5
+Plant everywhere?
+Just for 5
+Fertilize everywhere?
+Just for 20
+Harvest everywhere?
+Just for 5
+Use sprinkler to water all Crops?
+Just for 5
+61
+Tap again to Watering
+STORAGE FULL!
+UPGRADE YOUR STORAGE TO GET MORE SPACE!
+INCREASE STORAGE
+UPGRADE BY 10
+YOU NEED THE FOLLOWING TO UPGRADE THIS BUILDING
+INCREASE STORAGE
+Tap green areas to build
+IMPROVE COMPUND
+UPGRADE COMPOUND TO PRODUCE MORE GOODS
+YOU NEED THE FOLLOWING TO UPGRADE THIS ANIMAL
+73
+SHOP
+Tap on an item to sell it
+Wheat
+Corn
+Vanilla
+Rye
+Sugar cane
+Onions
+Sorghum
+Cotton plant
+Strawberry
+Blueberry
+Hemp
+Tomatoes
+Cacao
+Potatoes
+Apple Tree
+Orange Tree
+Lemon  Tree
+93
+BOOST AND FINISH!
+WOULD YOU LIKE TO ACTIVATE THE BOOSTER FOR % DIAMONDS?
+COMPLETE!
+HARVEST IN:
+PLOT LIMIT REACHED!
+EXPAND YOUR FARM TO UNLOCK % MORE PLOTS!
+MAKES
+101
+Wheat Flour
+Crushed Grain
+Rye Flour
+Mixed Flour
+Bread
+Dough
+Croissant
+Pretzel
+Blueberry Muffin
+Cheese Cake
+Apple Pie
+Pralines
+Goose Butter
+Whipped Cream
+Quark
+Yoghurt
+Fruit juice
+Muesli
+Ketchup
+Jam
+Powdered Sugar
+Lemonade
+Vanilla Sugar
+Sirup
+Grilled cheese
+Bacon
+French Fries
+Hamburger
+Breakfast
+Brunch
+Lunch
+Dinner
+Woolballs
+Threads
+Spindles
+Webs
+Trousers
+Hamp Shirt
+Jacket
+Cotton Hat
+142
+EMPTY
+DONE!
+WAITING..
+UPGRADE NEEDED
+DONE IN
+Harvestor
+Harvest % of any crops!
+Social
+Have % friends in the game!
+Producer
+Produce % of any  products
+Cashiiiing!
+Earn % money by selling your crops and products! 
+Bork - Bork!
+Collect % eggs from your chicken
+Muhhhh!
+Collect % milk from your cows
+Quiik!
+Collect % bacon from your pigs
+Maeeeeh!
+Collect % wool from your sheep
+Best Farm
+Invest % gold in your decorations
+Explorer
+Expand your farm % times!
+Gardener
+Remove x vegetation on the map
+Constructor
+Build % buildings
+Perfectionist
+Upgrade any building a total of % times!
+A best friend
+Buy  a total of % Diamonds!
+Bling - Bling!
+Buy  a total of % Gold!
+178
+REWARD:
+COMPLETE
+STORAGE CAPACITY:
+COOL! YOU FOUND + X
+USE CROPS
+184
+Stones
+Wood
+Nails
+Ropes
+Leafs
+Wool
+Hamp
+Goat Milk
+193
+UPGRADE
+Chicken House
+BAKERY
+Cow Pasture
+Sheep Corral
+Pig Pen
+CAKE
+DAIRY
+Goat Corral
+Fruit Smasher
+Sugar Factory
+GRILL
+RESTAURANT
+Weaving Building
+TAILOR
+0
+0
+FARMHOUSE
+STORAGE
+FEEDMILL
+WINDMILL
+215
+Level
+Chicken
+Cow
+Sheep
+Pig
+Goat
+222
+Good start
+Fresh & Juicy
+Flower Day
+Exotic day
+All mine
+Tree Collection
+Cats & Mice
+Bakery Story
+Yummi Cakes
+Got Milk?
+Yummy Jam
+Sweet sugar
+Ham & Meet
+Restaurant Story
+Nice needles
+Nice & soft
+Lets create!
+Animal Farm
+Animal Farm 2
+Expand & cultivate
+Rocks and roses
+Diamonds are my friends
+245
+Eggs
+Milk
+Wool
+Meat
+Goat Milk
+MY TASKS
+MY HELPERS
+GET 0.5% BONUS GOLD AND UNLOCK CROPS FOR EACH HELPER YOU HAVE!
+FRIENDS:
+CONNECT
+INVITE
+GET 1 HELPER FOR 10
+You can produce this product in your
+You can get this from the stores crop section!
+GO TO
+261
+INFO
+Spring Flowers
+Wood Pile
+Hay Bail
+Wind Wheel
+Hay Cart
+Tractor
+269
+You found an item!
+Continue
+Share & Get One
+Build an enclosure first and put an animal on it to produce this product!
+Animal successfully purchased!
+BUY FOR
+WILD LAND
+VEGETATION
+CLEAN LAND
+NO VEGETATION
+OR
+281
+for
+can't place there
+Plant crops, wait 2 minutes and water them!
+Buy this item in the shop and place it on your farm.
+Invite some friends or add more with diamonds!
+Tap on an empty grass field and plow it.
+Buy a wild land and remove vegetation there.
+Earn some money by selling crops or completing tasks
+Earn experience to increase your level
+291
+You Mastered Level 
+CONGRATULATIONS
+You reward
+Master level 5 to receive free Diamonds
+Gold
+Progress
+Buy now
+SPECIAL OFFER
+YOU WERE SELECTED FOR A GREAT BONUS
+REMAINING TIME:
+302
+TRUCKER JOE
+ACCEPT QUESTS TO EARN EXTRA FARM CASH!
+Hey, do you have X % for me?
+YOUR STORAGE
+Accept
+Deny
+309
+Hello new Farmer!
+Hi, I'm Farmer Jo! I heard you are here to rebuild the little farm of your grandfather? 
+I know there is not much left, but I see your grandfather's ambition in your eyes. Let's grab your work boots and get started!
+Plow fields!
+First let me show you the farm basics on how to cultivate your land! Tap on the yard to plow your first field.
+Plow more!
+Wow, you also have your grandfather's talent! Let's plow 5 more fields!
+Select crops!
+Great! After we cultivated the land let's plant some crops on it. Tap on the empty field and plant wheat everywhere!
+Boost your wheat!
+Crops usually need time to grow. If you use your grandfather's secret diamond-fertilizer you can instantly harvest them.
+Tap on a crop once to select it and then again to fertilize it with diamonds.
+Harvest your wheat fields!
+WOOOW! Did you see that! By boosting, all your crops are now fully grown! 
+Tap on a crop to harvest one and then harvest all others.
+4 more Wheat
+Well done! Let's produce 4 more wheat to have a full storage and earn good money.
+Let's plow, plant and harvest one more time together!
+Check your storage!
+Great, you are one kind of a great farmer!
+Let's check your harvest in the storage to sell it and make some money. Just tap on the storage building to enter.
+Sell crops from storage!
+After some hard work it's always great to make some money!
+Tap on the wheat to select it for sale. Then press "ALL" on the right side to select all wheat crops. When ready tap on "Sell".
+First Money
+Well done, well done! 
+You can leave any building by tapping the "X" at the top right. Please do so.
+Orders from others
+By the way you get more money, if you produce crops or goods which someone asks you to produce. Let's check out, if there are any orders from other farmers.
+Your first task
+Ah, great! There is an order of wheat flour which you can see on the right side.  
+This shouldn't be a problem to produce it! Let's close this window at the top right "X" and go to your mill.
+Wind Mill & Flour
+Please take these 4 wheat crops to produce some flour. 
+Tap on your wind mill.
+Enter production view!
+Welcome to your wind mill.
+Each building can produce 4 different goods. Let's produce wheat flour for now. Please select it.
+Press produce
+To produce flour you will need two wheat crops. If you miss any crops either harvest them or add them for diamonds.
+Please produce 1x flour now and see how it is added to the production chain.
+Task Completed!
+Great! Congratulations! You just produced your first good out of crops! It is automatically put in your storage.
+Let's hurry back to the orders to exchange the flour for your reward.
+Collect your reward!
+Deliver the order by tapping on the "Cash in" button. Doing tasks is more rewarding than selling stuff in the storage.
+Please press the cash in button to receive the reward.
+Becoming known!
+Nicely done! People are already talking about your farm skills and want to give you a new task!
+This time let's instantly finish this task for diamonds.
+Fabulous
+I knew that you could do it! Great!
+Look, the Villagers want three eggs! I guess it's time to get some animals on your farm as well!
+Please close this screen and go to the shop.
+Enter the shop!
+Press the lower right extend button to enter the shop.
+Buildings
+By leveling up you will be able to build many different enclosures and production buildings later on.
+Let's build a chicken house.
+Place a building on the yard!
+This is the grid view which shows you the free spots where it's possible to place the chicken house. Please put it where you like.
+Boost construction process!
+Well done! Tap on the building to see when the building is finished. If you don't like to wait your can also boost it for a diamond.
+Unwrap finished building!
+Your building is done! Now tap on it to unwrap it!
+Add animals to an enclosure!
+Great, now let's add 1 of up to 4 chickens in this enclosure. 
+Tap on a free spot in the enclosure in order to open the shop and choose a chicken.
+Feed your animals!
+Oh, no! Your chicken is hungry and will only produce eggs for you if it got feed. 
+Feed it by taping on it.
+Produce Food in your Feed Mill!
+By visiting your feedmill you can produce food for your animals by using your stored crops. 
+Crops become Food!
+Usually you need to have crops in your storage to create food. This time I already put some corn in your storage to create food.
+Well done!
+Look at this! Your chicken is happy again and is producing an egg for you. 
+To give it some company please add another chicken to the enclosure and feed it as well.
+Your first egg!
+Ah, look! Your first chicken has just produced it's first egg. Please tap on it to collect it. 
+1 more egg!
+Well done! Now let's also collect the other egg from your second chicken to complete the order.
+My tip: If you don t want to wait later until an animal produces a good, you can also always boost it!
+Cash in time!
+Great, now you also know how to add, feed and collect goods from your animals. 
+Let's complete the current order.
+Tasks on your own
+Well done my farm friend! More and more villagers are ordering from your farm!
+Here are already more tasks to fulfill later!
+Expand your Farm!
+You almost know everything, but before you run short on space let's just expand your farm.
+Congratulations!
+Fantastic! You just earned your first reward! Just tap your farm house to collect an extra reward for this achievement!
+Special Tasks!
+Nice! Your farm house just improved! Mh, what's this? It's a truck from the nearby village with a special quests. If you complete it - you will earn a lot of farm cash!
+Get a Special Task!
+Tap on on the truck to open the quest window and accept it.
+You can complete a truck order, once you have the required crops in your storage.
+You made it!
+Congratulations! You know now all the basics to fully rebuild the little farm of your grandfather!
+Now set up more production buildings and enclosures. Complete Tasks and Orders and expand your farm. 
+Check the tasks in your clipboard for more tasks!
+412
+Stones
+Clothes
+Wood plate
+Wood plate 2  
+Stone watch
+Fire place
+Horse shoes
+Park
+Hay trailer
+Picnic
+Rabbit hill
+Scare crow
+Tree house
+Well
+Wood storage
+Wood house
+429
+Select All
+CAN YOU HELP ME?
+GET THESE:
+CASH IN
+Cancel
+Continue
+TASK
+New Mission
+EXPAND FARM
+UPGRADE STORAGE
+440
+Enter the shop!
+Awesome! Look, the Villagers want two eggs! Now it's time to get some animals on your farm!
+Press the lower right extend button to enter the shop.
+Farm Friends
+Awesome - come back to review more tasks later.
+Now I have a farming suprise for you. Please close this menu now.
+Welcome
+As a last will of your grandfather he wanted you to have this.
+Explore your farm, finish missions and rebuild it!.
+Level Up
+That's all you need for now!
+Try to finish tasks to level up. As a reward I will unlock animals and more buildings for you!
+Farm now until you level up!
+Can't upgrade! Finish production first.
+Help me
+Click here!
+Mission
+Goose Enclousure
+Duck  Enclousure
+Horse Enclousure
+Angora Enclousure
+Goose
+Duck
+Horse
+Angora
+Goose Eggs
+Duck Meat
+Horse Hair
+Angora Wool 
+Bananas
+Cherry
+Clove
+Grapes
+Lillies
+Mango
+Pomegranate
+Tulip
+ENCLOSURE BEE
+ENCLOSURE BUFFALO
+ENCLOSURE SQUIRELL
+CHEESE DAIRY
+JUICERY
+FLOWER SHOP
+MERMERLADE
+SMALL BUCKET
+VALENTIN BUCKET
+MID SUMMER
+SUMMER_HAPPINESS
+EXOTIC
+BERRY JUICE
+MULTI JUICE
+POWER JUICE
+BANANA DELUXE
+CHERRY CRUNCH
+MANGO SPECIAL
+NUT SPREAD
+CHEESE
+BUFFALO CHEESE
+GOAT CHEESE2
+CHEESE ROYAL
+Honey
+Buffalo milk
+Nuts
+Bee
+Buffalo
+Squirrel
+Oak
+Birch
+Pine
+Beech
+Forge
+Winter shop
+Iron Ore
+Silver Ore
+Gold Ore
+Iron Bar
+Silver Bar
+Gold Bar
+Ice Skates
+Spikes
+Ski
+Golden Sleigh
+DELIVERY TASKS
+FINISH ALL TASKS IN TIME TO RECEIVE MEGA BONUS!
+Truck leaves in:
+Delivery ready!
+SELECT YOUR MINING ITEMS
+FINISH DELIVERY MISSIONS TO FIND MORE!
+USE
+SHOVEL
+DYNAMITE
+TNT BOX
+JACKPOT
+DELIVERY
+You need unlock the expand to open this building!
